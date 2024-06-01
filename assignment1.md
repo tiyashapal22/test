@@ -1,10 +1,6 @@
 # Python 
-#### Table of contents
-- [Python](#python)
-      - [Table of contents](#table-of-contents)
+#### Table of contents    
   - [Introduction](#introduction)
-    - [Python 2](#python-2)
-    - [Python 3](#python-3)
   - [Usage](#usage)
   - [History](#history)
   - [Conclusion](#conclusion)
