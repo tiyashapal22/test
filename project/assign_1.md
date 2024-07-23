@@ -1,7 +1,7 @@
 # Details about Sales
-**Table of Content**<br>
+**Table of Content**
 - [Tabulor form of table](#tabular-data-of-sales)
-     -Table view is ready to see
+    -Table view is ready to see
 - [Graphical form of table](#graphical-view-of-sales-per-region)
     - Graphical view is ready to see
 
