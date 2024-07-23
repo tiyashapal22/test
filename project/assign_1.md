@@ -1,7 +1,7 @@
 # Details about Sales
 **Table of Content**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-[Tabulor form of table](#tabular-data-of-sales)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-[Graphical form of table](#graphical-view-of-sales-per-region)
+- [Tabulor form of table](#tabular-data-of-sales)<br>
+- [Graphical form of table](#graphical-view-of-sales-per-region)
 
 ## Graphical View of Sales per Region
 ![Alt](https://github.com/tiyashapal22/test/blob/main/image/picture1.jpg)
