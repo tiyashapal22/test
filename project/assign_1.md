@@ -1,9 +1,9 @@
 # Details about Sales
 **Table of Content**<br>
 - [Tabulor form of table](#tabular-data-of-sales)
-    - Table view is ready to see
+     Table view is ready to see
 - [Graphical form of table](#graphical-view-of-sales-per-region)
-    - Graphical view is ready to see
+     Graphical view is ready to see
 
 ## Graphical View of Sales per Region
 ![Alt](https://github.com/tiyashapal22/test/blob/main/image/picture1.jpg)
