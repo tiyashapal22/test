@@ -1,9 +1,7 @@
 <details>
 <summary> Tables </summary>
-| Region | Quantity | 
-
-|----------|-------------|   
-
+| Region | Quantity |
+|----------|-------------|
  | North | 87 | 
  | North | 29 | 
  | South | 82 | 
@@ -66,4 +64,5 @@
  | North | 79 | 
  | North | 51 | 
  | North | 47 | 
+
 </details>
