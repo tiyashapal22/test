@@ -1,5 +1,6 @@
 <details>
 <summary> Tables </summary>
+
 | Region | Quantity |
 |----------|-------------|
 | North | 87 |
