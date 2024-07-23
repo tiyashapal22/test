@@ -1,5 +1,5 @@
 # Details about Sales
-**Table of Content**
+**Table of Content**<br>
     -[Tabulor form of table](#tabular-data-of-sales)
     -[Graphical form of table](#graphical-view-of-sales-per-region)
 
