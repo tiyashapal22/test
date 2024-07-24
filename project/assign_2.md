@@ -8,7 +8,8 @@
 ## Graphical View of Sales per Region
 ![Alt](https://github.com/tiyashapal22/test/blob/main/image/picture2.jpg)
 
-## Tabular Data of Sales<details>
+## Tabular Data of Sales
+<details>
 <summary> Tables </summary>
 
 | Region | Quantity |
