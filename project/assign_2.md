@@ -13,7 +13,7 @@
 <summary> Tables </summary>
 
 | Region | Quantity | Category | Product |
-|----------|-------------|-------------|-----------|
+|-|-------------|-------------|-----------|
 | North | 87 | Crackers | Whole Wheat | 
 | North | 29 | Snacks | Pretzels | 
 | South | 82 | Cookies | Chocolate Chip | 
