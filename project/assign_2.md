@@ -12,69 +12,69 @@
 <details>
 <summary> Tables </summary>
 
-| Region | Quantity |
-|----------|-------------|
-| North | 87 |
-| North | 29 |
-| South | 82 |
-| South | 80 |
-| South | 54 |
-| South | 102 |
-| South | 149 |
-| North | 31 |
-| East | 36 |
-| North | 52 |
-| East | 28 |
-| North | 58 |
-| East | 43 |
-| West | 232 |
-| North | 123 |
-| North | 68 |
-| North | 85 |
-| North | 93 |
-| North | 61 |
-| East | 57 |
-| North | 40 |
-| North | 65 |
-| North | 86 |
-| North | 118 |
-| West | 39 |
-| North | 67 |
-| East | 193 |
-| East | 129 |
-| North | 91 |
-| North | 77 |
-| East | 23 |
-| North | 84 |
-| East | 48 |
-| North | 44 |
-| South | 134 |
-| North | 120 |
-| East | 53 |
-| East | 26 |
-| North | 63 |
-| North | 73 |
-| North | 105 |
-| North | 34 |
-| East | 138 |
-| North | 60 |
-| West | 21 |
-| East | 37 |
-| West | 55 |
-| North | 64 |
-| North | 33 |
-| North | 71 |
-| West | 288 |
-| North | 90 |
-| North | 76 |
-| West | 22 |
-| West | 20 |
-| South | 136 |
-| North | 38 |
-| West | 50 |
-| West | 306 |
-| North | 79 |
-| North | 51 |
-| North | 47 |
+| Region | Quantity | Category | Product |
+|----------|-------------|-------------|-----------|
+| North | 87 | Crackers | Whole Wheat | 
+| North | 29 | Snacks | Pretzels | 
+| South | 82 | Cookies | Chocolate Chip | 
+| South | 80 | Cookies | Oatmeal Raisin | 
+| South | 54 | Bars | Carrot | 
+| South | 102 | Bars | Carrot | 
+| South | 149 | Crackers | Whole Wheat | 
+| North | 31 | Crackers | Whole Wheat | 
+| East | 36 | Cookies | Arrowroot | 
+| North | 52 | Cookies | Arrowroot | 
+| East | 28 | Snacks | Whole Wheat | 
+| North | 58 | Cookies | Arrowroot | 
+| East | 43 | Cookies | Arrowroot | 
+| West | 232 | Cookies | Chocolate Chip | 
+| North | 123 | Cookies | Oatmeal Raisin | 
+| North | 68 | Bars | Bran | 
+| North | 85 | Cookies | Chocolate Chip | 
+| North | 93 | Bars | Carrot | 
+| North | 61 | Bars | Carrot | 
+| East | 57 | Bars | Bran | 
+| North | 40 | Crackers | Whole Wheat | 
+| North | 65 | Cookies | Oatmeal Raisin | 
+| North | 86 | Cookies | Chocolate Chip | 
+| North | 118 | Bars | Carrot | 
+| West | 39 | Cookies | Chocolate Chip | 
+| North | 67 | Cookies | Chocolate Chip | 
+| East | 193 | Cookies | Oatmeal Raisin | 
+| East | 129 | Cookies | Oatmeal Raisin | 
+| North | 91 | Bars | Carrot | 
+| North | 77 | Cookies | Arrowroot | 
+| East | 23 | Crackers | Whole Wheat | 
+| North | 84 | Bars | Carrot | 
+| East | 48 | Bars | Carrot | 
+| North | 44 | Cookies | Oatmeal Raisin | 
+| South | 134 | Snacks | Potato Chips | 
+| North | 120 | Cookies | Oatmeal Raisin | 
+| East | 53 | Bars | Carrot | 
+| East | 26 | Crackers | Whole Wheat | 
+| North | 63 | Cookies | Chocolate Chip | 
+| North | 73 | Bars | Carrot | 
+| North | 105 | Bars | Bran | 
+| North | 34 | Crackers | Whole Wheat | 
+| East | 138 | Cookies | Oatmeal Raisin | 
+| North | 60 | Cookies | Oatmeal Raisin | 
+| West | 21 | Crackers | Whole Wheat | 
+| East | 37 | Cookies | Arrowroot | 
+| West | 55 | Cookies | Chocolate Chip | 
+| North | 64 | Cookies | Chocolate Chip | 
+| North | 33 | Crackers | Whole Wheat | 
+| North | 71 | Bars | Carrot | 
+| West | 288 | Cookies | Oatmeal Raisin | 
+| North | 90 | Cookies | Arrowroot | 
+| North | 76 | Cookies | Chocolate Chip | 
+| West | 22 | Snacks | Pretzels | 
+| West | 20 | Crackers | Whole Wheat | 
+| South | 136 | Cookies | Arrowroot | 
+| North | 38 | Crackers | Whole Wheat | 
+| West | 50 | Bars | Bran | 
+| West | 306 | Bars | Carrot | 
+| North | 79 | Cookies | Oatmeal Raisin | 
+| North | 51 | Cookies | Oatmeal Raisin | 
+| North | 47 | Cookies | Oatmeal Raisin | 
 
 </details>
