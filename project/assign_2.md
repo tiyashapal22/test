@@ -1,5 +1,5 @@
 # Details about Sales
-**Table of Content**
+**_Table of Content_**
 - [Show Hidden Table](#tabular-data-of-sales)
     - Table view is ready to see
 - [Graphical form of hidden table](#graphical-view-of-sales-per-region)
