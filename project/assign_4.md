@@ -2,3 +2,4 @@
 | OrderDate | Region | Quantity | Unit Price | Total Price |
 | 2020-01-04 00:00:00 | North | 87 | 3.49 | 303.63 | 
 | 2020-01-10 00:00:00 | North | 29 | 3.15 | 91.35 | 
+| 2020-01-16 00:00:00 | South | 82 | 1.87 | 153.34 | 
