@@ -8,6 +8,7 @@
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 09 Seconds
 	Max Execution Time (recent) : 00 Hours : 03 Minutes : 18 Seconds
 ### Report Long Description
+
 ```
 - This report provides an Executive Summary overview of the status of backup jobs within defined backup windows.
 - Select a backup window to narrow the scope of the report.
@@ -21,6 +22,7 @@
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 14 Seconds
 	Max Execution Time (recent) : 00 Hours : 05 Minutes : 30 Seconds
 ### Report Long Description
+
 ```
 - Provides drill-down access to the Job Summary report, where you'll find specific status messages and scheduling information.
 - When you generate this report, several scoping options enable you to narrow
@@ -35,6 +37,7 @@ the report and also to define how the data is displayed.
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 38 Seconds
 	Max Execution Time (recent) : 01 Hours : 00 Minutes : 07 Seconds
 ### Report Long Description
+
 ```
 - When you generate this report, several options enable you to narrow the scope of the report and also to define how the data will be displayed.
 - This report is equivalent to the following NetBackup OpsCenter report(s): All Failed Backups, Backup Window Failures, Client Restore, Job Details, Job Size, Partially Successful Job Details, Restore Job Details```
@@ -47,6 +50,7 @@ the report and also to define how the data is displayed.
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 13 Seconds
 	Max Execution Time (recent) : 00 Hours : 05 Minutes : 50 Seconds
 ### Report Long Description
+
 ```
 - The report shows the number of files and amount of data (in KB) backed up for a specified time period.
 -  This helps to determine if your scheduling is balanced.```
@@ -59,6 +63,7 @@ the report and also to define how the data is displayed.
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 02 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 05 Seconds
 ### Report Long Description
+
 ```
 - Use this chart for a high-level view of backup jobs, with access to the relevant details.
 - This report is equivalent to the following NetBackup OpsCenter report(s): Job Count, Restore Job Attempt Summary by Job Count, Restore Job Attempt Summary by Volume Restored.```
@@ -71,6 +76,7 @@ the report and also to define how the data is displayed.
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - Each donut sector represents an error code with the number of error occurrences shown in a tooltip in the following format.
 - The total count of all errors is displayed in the center of the donut.```
@@ -83,6 +89,7 @@ the report and also to define how the data is displayed.
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 02 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 03 Seconds
 ### Report Long Description
+
 ```
 - The report combines into one view, information about both backup and restore duration.
 - If, on a specific day, there were two backup events that completed after one hour and three hours respectively, and one restore completed after .5 hours, the bar reports a duration of 4.5 hours.
@@ -100,6 +107,7 @@ You can also report on a single event type:
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 07 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 22 Seconds
 ### Report Long Description
+
 ```
 - Use this report in conjunction with the Consecutive Errors By Client report to mitigate future problems by determining which types of errors occurred with
 the greatest frequency.
@@ -113,6 +121,7 @@ You can also run Error Log Summary or Error Log Summary by Policy for similar da
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 04 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 04 Seconds
 ### Report Long Description
+
 ```
 - Use this report in conjunction with the Consecutive Errors report to mitigate future problems by determining which types of errors occurred with
 the greatest frequency.
@@ -126,6 +135,7 @@ You can also run Error Log Summary by Server or Error Log Summary by Policy for 
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - Use this report in conjunction with the Consecutive Errors report to mitigate future problems by determining which types of errors occurred with
 the greatest frequency.
@@ -139,6 +149,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 49 Seconds
 	Max Execution Time (recent) : 01 Hours : 00 Minutes : 40 Seconds
 ### Report Long Description
+
 ```
 - Use this report to proactively manage clients and servers.
 - Consecutive errors may portend hardware reliability issues.
@@ -155,6 +166,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 30 Seconds
 	Max Execution Time (recent) : 00 Hours : 04 Minutes : 37 Seconds
 ### Report Long Description
+
 ```
 - Use this report to identify consumers of your most utilized backup volume.
 - A pie chart graphically represents the usage that also is listed in the legend.
@@ -169,6 +181,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 05 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 58 Seconds
 ### Report Long Description
+
 ```
 - When selecting the scope for this report, choose Include Primary Servers.
 - If you run the report on the Primary Servers instead of clients, you can avoid having duplicate jobs in the list, if a client is backed up by two Primary Servers.```
@@ -181,6 +194,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 04 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 08 Seconds
 ### Report Long Description
+
 ```
 - This report displays the number of jobs and their status, for jobs started during the time period that you specified for the report.
  Only Veritas NetBackup, EMC NetWorker and CommVault Simpana jobs are listed in this report.
@@ -195,6 +209,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 	Avg Execution Time (recent) : 00 Hours : 01 Minutes : 03 Seconds
 	Max Execution Time (recent) : 00 Hours : 03 Minutes : 24 Seconds
 ### Report Long Description
+
 ```
 - Only Veritas NetBackup and EMC NetWorker jobs will be listed in this report.
 - For NetWorker, this report is titled, Running Save Sets Summary.
@@ -209,6 +224,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 06 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 24 Seconds
 ### Report Long Description
+
 ```
 - This report lists HP Data Protector sessions, with drilldown access to session details.
 - A list of tapes provides drilldown access to the Tape Media Detail report.```
@@ -221,6 +237,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 29 Seconds
 	Max Execution Time (recent) : 00 Hours : 02 Minutes : 19 Seconds
 ### Report Long Description
+
 ```
 - The Data Domain system acts as an external disk pool.
 - Note that LSU (logical storage unit) data is collected every six hours.```
@@ -234,6 +251,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 22 Seconds
 	Max Execution Time (recent) : 00 Hours : 03 Minutes : 31 Seconds
 ### Report Long Description
+
 ```
 - Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
 - These statistics enable you to identify issues associated with the processing of SLPs.
@@ -247,6 +265,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 21 Seconds
 	Max Execution Time (recent) : 00 Hours : 05 Minutes : 23 Seconds
 ### Report Long Description
+
 ```
 - This information can be instrumental in determining efficient storage strategies and identifying storage that can be reclaimed, thereby reducing archive storage expenses.
 - This data can be used to identify clients within efficient de-duplication ratios, highlighting where de-deduplication is not an effective approach for certain backed-up files.
@@ -264,6 +283,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 03 Minutes : 06 Seconds
 	Max Execution Time (recent) : 00 Hours : 40 Minutes : 29 Seconds
 ### Report Long Description
+
 ```
 - This information can be instrumental in determining efficient storage strategies and identifying storage that can be reclaimed, thereby reducing archive storage expenses.
 - This data can be used to identify clients with inefficient de-duplication ratios, highlighting where de-deduplication is not an effective approach for certain backed-up files.
@@ -281,6 +301,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - Displays Amazon Web Services (AWS) EC2 instances with color coded statuses, dates and sizes of snapshot backups allowing for a quick assessment.
 - Drill down to AWS EC2 Snapshot Detail from the Total Snaps value.```
@@ -293,6 +314,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.
 - This is available from the menu directly and as a drill down in the AWS EC2 Snapshot report.```
@@ -305,6 +327,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - Shows totals for successful, partially successful, and failed jobs for each source.
 - Drilldown on sources, hosts and objects to show details.
@@ -318,6 +341,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - This report can also be filtered on vendor job types and backup/restore event types.```
 
@@ -329,6 +353,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - Use this report as a tool to compare performance of various primary servers.
 - This report displays throughput and job success information for each primary server.
@@ -343,6 +368,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 06 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 06 Seconds
 ### Report Long Description
+
 ```
 - Provides details of data that is backed up by NetBackup media servers and shows server throughput.
 - The report is a useful tool to compare performance of the media servers that are present in your Veritas NetBackup environment.
@@ -356,6 +382,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 05 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 05 Seconds
 ### Report Long Description
+
 ```
 - This report provides a counts of backup source (client/object) counts across products.
 - It displays how many clients/objects are actually being backed up.```
@@ -368,6 +395,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 03 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 03 Seconds
 ### Report Long Description
+
 ```
 - Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
 - These statistics enable you to identify issues associated with the processing of SLPs.
@@ -381,6 +409,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - This report lists Source Primary Server, Destination Primary Server, Client, Policy Name, Policy Type, Lifecycle Policy and many other details about the NBU AIR Replication Import Jobs```
 
@@ -392,6 +421,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 21 Seconds
 	Max Execution Time (recent) : 00 Hours : 02 Minutes : 35 Seconds
 ### Report Long Description
+
 ```
 - This report lists Client, Primary Server, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Clients```
 
@@ -403,6 +433,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 21 Seconds
 	Max Execution Time (recent) : 00 Hours : 02 Minutes : 03 Seconds
 ### Report Long Description
+
 ```
 - This report lists Primary Server, Primary IP, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Primary Servers.
 - This report is equivalent to the following NetBackup OpsCenter report(s): Deduplication Rates by Master Server.```
@@ -415,6 +446,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 18 Seconds
 	Max Execution Time (recent) : 00 Hours : 01 Minutes : 49 Seconds
 ### Report Long Description
+
 ```
 - This report lists Policy Type, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Policy Type.
 - This report is equivalent to the following NetBackup OpsCenter report(s): Deduplication Rates by Policy Type.```
@@ -427,6 +459,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 18 Seconds
 	Max Execution Time (recent) : 00 Hours : 01 Minutes : 39 Seconds
 ### Report Long Description
+
 ```
 - This Bar Chart report lists Deduplication Trend Over Time.
 - This report is equivalent to the following NetBackup OpsCenter report(s): Pre vs.
@@ -440,6 +473,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 01 Minutes : 01 Seconds
 	Max Execution Time (recent) : 00 Hours : 02 Minutes : 43 Seconds
 ### Report Long Description
+
 ```
 - This report shows a line chart for job throughput by client.
 -  It can be used to determine if there are performance issues on this host or appliance.
@@ -454,6 +488,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 04 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 28 Seconds
 ### Report Long Description
+
 ```
 - Drilldown on Anomaly score to see more details on the associated anomalies.```
 
@@ -465,6 +500,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 02 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 02 Seconds
 ### Report Long Description
+
 ```
 - Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
 - These statistics enable you to identify issues associated with the processing of SLPs.```
@@ -477,6 +513,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 16 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 18 Seconds
 ### Report Long Description
+
 ```
 - Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
 - These statistics enable you to identify issues associated with the processing of SLPs.```
@@ -489,6 +526,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 01 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 01 Seconds
 ### Report Long Description
+
 ```
 - This report shows a status summary of backup jobs for the selected clients.
 - The table shows totals for successful, partially successful, and failed jobs for each client that is in scope.
@@ -504,6 +542,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - This dashboard contains multiple reports to highlight and visualize the risk in your environment which enables you to ascertain your readiness in terms of data protection in the event of a Ransomware infection.
 - A well protected landscape would mean that data can be recovered with confidence.
@@ -546,6 +585,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 10 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 32 Seconds
 ### Report Long Description
+
 ```
 - The reports displayed in this dashboard are dependent on the type of backup system selected in the report scope.
 - For example, the Storage Unit Summary is relevant only for NetBackup servers.
@@ -559,6 +599,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - The Alerts Dashboard allows you to see a high-level view of current and historical alert conditions, and also manage these alerts by drilling down into more detailed views where you can actively manage the alerts.
 
@@ -581,6 +622,7 @@ With the above practices, the alerts dashboard will minimize false positives and
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - Storage optimization starts with a one-off analysis, but should be reviewed regularly to maintain efficient storage use.
 - This dashboard presents point-in-time charts that summarize storage usage and show different detailed views.
@@ -596,6 +638,7 @@ With the above practices, the alerts dashboard will minimize false positives and
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - This dashboard combines Job Throughput metrics with Host Resource / Performance utilization charts```
 
@@ -607,6 +650,7 @@ With the above practices, the alerts dashboard will minimize false positives and
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - The Dashboard provides Deduplication to MSDP Savings by Primary Server, by Policy Type, by Clients.
 - Displays pre, post Deduplication Trend and Deduplication Savings Trend```
@@ -619,6 +663,7 @@ With the above practices, the alerts dashboard will minimize false positives and
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - This dashboard contains multiple reports to show the cost spent on Azure cloud subscriptions.
 This dashboard also shows different cost visualizations based on Subscription, Region, Service, and Tag in a stacked bar chart and tile format.
@@ -642,6 +687,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 32 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 58 Seconds
 ### Report Long Description
+
 ```
 - This dashboard view includes several reports: Real Time Job Summary, Real Time Library and Drive Status, Real Time Storage Unit Utilization, and Running and Queued Jobs Summary.
 - This dashboard is relevant for Veritas NetBackup and EMC Networker jobs.```
@@ -654,6 +700,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 39 Seconds
 	Max Execution Time (recent) : 00 Hours : 01 Minutes : 51 Seconds
 ### Report Long Description
+
 ```
 - In the scope selector, in addition to specifying a time period, you also can choose to omit backup retries.```
 
@@ -665,6 +712,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 01 Minutes : 44 Seconds
 	Max Execution Time (recent) : 00 Hours : 15 Minutes : 19 Seconds
 ### Report Long Description
+
 ```
 - Using this report, you can easily identify hosts that have not had backups or failed backups.
 - Drilldown to ascertain the root cause of unsuccessful backups.
@@ -678,6 +726,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 56 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 56 Seconds
 ### Report Long Description
+
 ```
 - In a single pane, you quickly can analyze capacity and process status information for each of the Storage Pools.
 - The Storage Pool Capacity pie chart displays the percentage and GBytes used and available for the Storage Pool.
@@ -691,6 +740,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 01 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 02 Seconds
 ### Report Long Description
+
 ```
 - Use these reports to identify bottlenecks.
 - The Job Throughput Histogram provides colored visual cues for quickly determining the backup throughput trends for clients that had backup jobs within the previous 24 hours.
@@ -708,6 +758,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 01 Minutes : 35 Seconds
 	Max Execution Time (recent) : 00 Hours : 01 Minutes : 51 Seconds
 ### Report Long Description
+
 ```
 - When auditing is configured for a NetBackup environment, the following user-initiated actions from NetBackup are recorded and available to view in an audit report: Actions that change the NetBackup configuration.
 - Examples are policy creation, deletion, and modification, and changing the audit settings.
@@ -722,6 +773,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : No Data Available
 	Max Execution Time (recent) : No Data Available
 ### Report Long Description
+
 ```
 - The report displays summarized view of server name, notification severity an d priority and its corresponding count of the critical events notification.
 - Click Server Name hyperlink vlue to view Host Details report for corresponding Server Name.
@@ -736,6 +788,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 02 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 13 Seconds
 ### Report Long Description
+
 ```
 - The graph represents the total usage and capacity for all disks on the host for the point in time.
 - The Capacity Utilization and Forecast report is derived from the node disk utilization.```
@@ -748,6 +801,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 10 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 45 Seconds
 ### Report Long Description
+
 ```
 - The values shown in the report are derived from cumulative statistics since the replication context was created.
 - The remaining pre-compression (pre-comp) value, relevant for directory replication only, represents the sum of the sizes of the files yet to be replicated.
@@ -763,6 +817,7 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
 	Avg Execution Time (recent) : 00 Hours : 00 Minutes : 09 Seconds
 	Max Execution Time (recent) : 00 Hours : 00 Minutes : 09 Seconds
 ### Report Long Description
+
 ```
 - Snapshots listed for each Data Domain system provide insight into retention policies.
 - Note that expired snapshots remain available until the next file system clean operation.```
