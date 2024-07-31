@@ -48,7 +48,7 @@
 - [Command Center Dashboard](#command-center-dashboard)
 - [Data Protection Dashboard](#data-protection-dashboard)
 - [Mission Control - Backup](#mission-control---backup)
-- [IBM Spectrum Protect (TSM) Storage Pools Dashboard](#ibm-spectrum-protect-(tsm)-storage-pools-dashboard)
+- [IBM Spectrum Protect (TSM) Storage Pools Dashboard](#ibm-spectrum-protect-tsm-storage-pools-dashboard)
 - [Job Histogram](#job-histogram)
 - [NetBackup Audit Report](#netbackup-audit-report)
 - [NetBackup Event Notification Summary - CRITICAL](#netbackup-event-notification-summary---critical)
