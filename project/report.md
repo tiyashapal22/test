@@ -3,7 +3,7 @@
  ### Report Short Description
   ```View a client and job overview by backup window.``` 
 ### Information 
-    Last Updaated  : 29 April, 2024
+    Last Updated               : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 09 Seconds
     Max Execution Time(recent) : 00 Hours: 03 Minutes: 18 Seconds
 ### Report Long Description
@@ -191,9 +191,9 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 - The Data Domain system acts as an external disk pool.
 - Note that LSU (logical storage unit) data is collected every six hours.
 ## NetBackup SLP Status
- ### Report Short Description
-  ```Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs, which can be used as an
-overview of the health of the SLPs for each NetBackup primary server.``` 
+### Report Short Description
+```Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs, which can be used as an
+overview of the health of the SLPs for each NetBackup primary server.```
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 22 Seconds
@@ -203,8 +203,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - These statistics enable you to identify issues associated with the processing of SLPs.
 - This report is equivalent to the following NetBackup OpsCenter report(s): SLP Status.
 ## Data Domain File Compression Summary
- ### Report Short Description
-  ```View Data Domain file pre and post compression values summarized for a client, with aggregated rates.``` 
+### Report Short Description
+```View Data Domain file pre and post compression values summarized for a client, with aggregated rates.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 21 Seconds
@@ -218,8 +218,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - Configure EMC Data Domain collection to capture image-level compression rates.
 - Aggregated global and local compression rates for all backup images can be collected for all active Data Domain Server MTrees connected (via DDBOOST) to Primary Servers.
 ## Data Domain File Compression Detail
- ### Report Short Description
-  ```View Data Domain file values both pre and post compression.``` 
+### Report Short Description
+```View Data Domain file values both pre and post compression.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 03 Minutes: 06 Seconds
@@ -233,8 +233,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - Configure EMC Data Domain collection to capture image-level compression rates.
 - Aggregated global and local compression rates for all backup images can be collected for all active Data Domain Server MTrees connected (via DDBOOST) to Primary Servers.
 ## AWS EC2 Snapshot
- ### Report Short Description
-  ```Displays Amazon Web Services (AWS) EC2 instances with the status of snapshot backups``` 
+### Report Short Description
+```Displays Amazon Web Services (AWS) EC2 instances with the status of snapshot backups``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : No Hours: Data Minutes: Available Seconds
@@ -243,8 +243,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - Displays Amazon Web Services (AWS) EC2 instances with color coded statuses, dates and sizes of snapshot backups allowing for a quick assessment.
 - Drill down to AWS EC2 Snapshot Detail from the Total Snaps value.
 ## AWS EC2 Snapshot Detail
- ### Report Short Description
-  ```Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.``` 
+### Report Short Description
+```Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : No Hours: Data Minutes: Available Seconds
@@ -253,8 +253,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.
 - This is available from the menu directly and as a drill down in the AWS EC2 Snapshot report.
 ## Job Summary By Source
- ### Report Short Description
-  ```This report shows the job summary with the rate of success by source.``` 
+### Report Short Description
+```This report shows the job summary with the rate of success by source.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : No Hours: Data Minutes: Available Seconds
@@ -264,8 +264,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - Drilldown on sources, hosts and objects to show details.
 - This report is equivalent to the following NetBackup OpsCenter report(s): Advanced Success Rate, Success Rate - All Attempts, Success Rate - All Jobs, Success Rate Line.
 ## Job Duration By Source
- ### Report Short Description
-  ```Use this report to view the total duration of backup and restore jobs sorted by Source for a specific period of time.``` 
+### Report Short Description
+```Use this report to view the total duration of backup and restore jobs sorted by Source for a specific period of time.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : No Hours: Data Minutes: Available Seconds
@@ -273,8 +273,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 ### Report Long Description
 - This report can also be filtered on vendor job types and backup/restore event types.
 ## Primary Server Job Throughput
- ### Report Short Description
-  ```Use this report as a tool to compare performance of various primary servers.``` 
+### Report Short Description
+```Use this report as a tool to compare performance of various primary servers.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : No Hours: Data Minutes: Available Seconds
@@ -285,8 +285,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - It shows job count and job success rate, and enables you to compare throughputs of different servers to identify any poorly performing servers.
 - This report is equivalent to the following NetBackup OpsCenter report(s): Master Server Job Throughput.
 ## NetBackup Media Server Job Throughput
- ### Report Short Description
-  ```Provides details of data that is backed up by NetBackup media servers and shows server throughput.``` 
+### Report Short Description
+```Provides details of data that is backed up by NetBackup media servers and shows server throughput.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 06 Seconds
@@ -296,7 +296,7 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - The report is a useful tool to compare performance of the media servers that are present in your Veritas NetBackup environment.
 - This report is equivalent to the following NetBackup OpsCenter report(s): Media Server Job Throughput.
 ## Source Backup Count Summary
- ### Report Short Description
+### Report Short Description
   ```This report provides a count of the backup sources (clients/objects) across products.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
@@ -306,8 +306,8 @@ overview of the health of the SLPs for each NetBackup primary server.```
 - This report provides a counts of backup source (client/object) counts across products.
 - It displays how many clients/objects are actually being backed up.
 ## NetBackup SLP Status by SLP
- ### Report Short Description
-  ```Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by SLP, which can be used as an overview of the health of the SLPs for each NetBackup primary server.``` 
+### Report Short Description
+```Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by SLP, which can be used as an overview of the health of the SLPs for each NetBackup primary server.``` 
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 03 Seconds
