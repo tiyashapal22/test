@@ -114,8 +114,8 @@ the report and also to define how the data is displayed.
   `Use this chart for a high-level view of backup errors by error code. Click a sector to view the Job Summary report for a specific error code.` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - Each donut sector represents an error code with the number of error occurrences shown in a tooltip in the following format.
 - The total count of all errors is displayed in the center of the donut.
@@ -161,8 +161,8 @@ You can also run Error Log Summary by Server or Error Log Summary by Policy for 
   `View a tabular report that lists backup failure details gleaned from backup error logs.` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - Use this report in conjunction with the Consecutive Errors report to mitigate future problems by determining which types of errors occurred with
 the greatest frequency.
@@ -294,8 +294,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `Displays Amazon Web Services (AWS) EC2 instances with the status of snapshot backups` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - Displays Amazon Web Services (AWS) EC2 instances with color coded statuses, dates and sizes of snapshot backups allowing for a quick assessment.
 - Drill down to AWS EC2 Snapshot Detail from the Total Snaps value.
@@ -304,8 +304,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.
 - This is available from the menu directly and as a drill down in the AWS EC2 Snapshot report.
@@ -314,8 +314,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `This report shows the job summary with the rate of success by source.` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - Shows totals for successful, partially successful, and failed jobs for each source.
 - Drilldown on sources, hosts and objects to show details.
@@ -325,8 +325,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `Use this report to view the total duration of backup and restore jobs sorted by Source for a specific period of time.` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - This report can also be filtered on vendor job types and backup/restore event types.
 ## Primary Server Job Throughput
@@ -334,8 +334,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `Use this report as a tool to compare performance of various primary servers.` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - Use this report as a tool to compare performance of various primary servers.
 - This report displays throughput and job success information for each primary server.
@@ -378,8 +378,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `Provides details about NBU AIR Replication Import Jobs` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - This report lists Source Primary Server, Destination Primary Server, Client, Policy Name, Policy Type, Lifecycle Policy and many other details about the NBU AIR Replication Import Jobs
 ## NetBackup Deduplication to MSDP Savings - By Clients
@@ -481,8 +481,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `Dashboard to highlight the risk of under-protected assets which if exposed to a Ransomware threat may become unavailable and may even incur financial loss to the enterprise. It also highlights any presence of files with well-known ransomware extensions across your environment` 
 ### Information 
     Last Updaated  : No Data Available
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - This dashboard contains multiple reports to highlight and visualize the risk in your environment which enables you to ascertain your readiness in terms of data protection in the event of a Ransomware infection.
 - A well protected landscape would mean that data can be recovered with confidence.
@@ -532,8 +532,8 @@ overview of the health of the SLPs for each NetBackup primary server.`
   `NetBackup IT Analytics can continuously monitor for issues in your environment. The Alerts Dashboard provides an overview of detected issues that require attention.` 
 ### Information 
     Last Updaated  : No Data Available
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - The Alerts Dashboard allows you to see a high-level view of current and historical alert conditions, and also manage these alerts by drilling down into more detailed views where you can actively manage the alerts.
 
@@ -552,8 +552,8 @@ With the above practices, the alerts dashboard will minimize false positives and
   `View charts of storage showing opportunities to optimize storage reclamation, by tier, infrastructure category, in summary and as a trend` 
 ### Information 
     Last Updaated  : No Data Available
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - Storage optimization starts with a one-off analysis, but should be reviewed regularly to maintain efficient storage use.
 - This dashboard presents point-in-time charts that summarize storage usage and show different detailed views.
@@ -565,8 +565,8 @@ With the above practices, the alerts dashboard will minimize false positives and
   `Backup Server Performance Dashboard` 
 ### Information 
     Last Updaated  : No Data Available
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - This dashboard combines Job Throughput metrics with Host Resource / Performance utilization charts
 ## NetBackup Deduplication to MSDP Savings Dashboard 
@@ -574,8 +574,8 @@ With the above practices, the alerts dashboard will minimize false positives and
   `The Dashboard provides details about Deduplication to MSDP Savings` 
 ### Information 
     Last Updaated  : No Data Available
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - The Dashboard provides Deduplication to MSDP Savings by Primary Server, by Policy Type, by Clients.
 - Displays pre, post Deduplication Trend and Deduplication Savings Trend
@@ -584,8 +584,8 @@ With the above practices, the alerts dashboard will minimize false positives and
   `Dashboard to highlight the cost spent on Azure subscriptions` 
 ### Information 
     Last Updaated  : No Data Available
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - This dashboard contains multiple reports to show the cost spent on Azure cloud subscriptions.
 This dashboard also shows different cost visualizations based on Subscription, Region, Service, and Tag in a stacked bar chart and tile format.
@@ -673,8 +673,8 @@ Note - Cost history by Tag report can be empty if the resource usage data is not
   `A report which displays the summary of server name, severity , priority and count of critical event notifications.` 
 ### Information 
     Last Updaated  : 29 April, 2024
-    Avg Execution Time(recent) : N Hours: o Minutes:   Seconds
-    Max Execution Time(recent) : N Hours: o Minutes:   Seconds
+    Avg Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
+    Max Execution Time(recent) : No  Hours: Data  Minutes: Available Seconds
 ### Report Long Description
 - The report displays summarized view of server name, notification severity an d priority and its corresponding count of the critical events notification.
 - Click Server Name hyperlink vlue to view Host Details report for corresponding Server Name.
