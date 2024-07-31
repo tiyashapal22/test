@@ -192,8 +192,7 @@ You can also run Error Log Summary by Server or Error Log Summary for similar da
 - Note that LSU (logical storage unit) data is collected every six hours.
 ## NetBackup SLP Status
 ### Report Short Description
-    Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs, which can be used as an
-overview of the health of the SLPs for each NetBackup primary server.
+```Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs, which can be used as an overview of the health of the SLPs for each NetBackup primary server.```
 ### Information 
     Last Updaated  : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 22 Seconds
