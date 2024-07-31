@@ -60,7 +60,7 @@ the report and also to define how the data is displayed.
     Avg Execution Time(recent) : No Hours: Data Minutes: Available Seconds
     Max Execution Time(recent) : No Hours: Data Minutes: Available Seconds
 ### Report Long Description
-- Each donut sector represents an error code with the number of error occurrences shown in a tooltip in the following format: <code>:<count>.
+- Each donut sector represents an error code with the number of error occurrences shown in a tooltip in the following format.
 - The total count of all errors is displayed in the center of the donut.
 ## Job Duration
  ### Report Short Description
