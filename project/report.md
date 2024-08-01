@@ -55,7 +55,6 @@
 - [Avamar Grid Capacity Dashboard](#avamar-grid-capacity-dashboard)
 - [Data Domain Replication History](#data-domain-replication-history)
 - [Data Domain Snapshot History](#data-domain-snapshot-history)
-
 ## Backup Executive Summary
  ### Report Short Description
   `View a client and job overview by backup window.` 
@@ -66,8 +65,7 @@
 ### Report Long Description
 	- This report provides an Executive Summary overview of the status of backup jobs within defined backup windows.
 	- Select a backup window to narrow the scope of the report.
-	- Select a backup window to narrow the scope of the report
-## Job Status Summary
+	- Select a backup window to narrow the scope of the report## Job Status Summary
  ### Report Short Description
   `Aggregates jobs that succeed, fail, or produce warning messages for each time period.` 
 ### Information 
@@ -77,8 +75,7 @@
 ### Report Long Description
 	- Provides drill-down access to the Job Summary report, where you'll find specific status messages and scheduling information.
 	- When you generate this report, several scoping options enable you to narrow the report and also to define how the data is displayed.
-	- When you generate this report, several scoping options enable you to narrow the report and also to define how the data is displayed
-## Job Summary
+	- When you generate this report, several scoping options enable you to narrow the report and also to define how the data is displayed## Job Summary
  ### Report Short Description
   `View details related to the data represented in the bars shown in the Job Status Summary chart.` 
 ### Information 
@@ -87,8 +84,7 @@
     Max Execution Time(recent) : 01 Hours: 00 Minutes: 07 Seconds
 ### Report Long Description
 	- When you generate this report, several options enable you to narrow the scope of the report and also to define how the data will be displayed.
-	- When you generate this report, several options enable you to narrow the scope of the report and also to define how the data will be displayed
-## Job Volume Summary
+	- When you generate this report, several options enable you to narrow the scope of the report and also to define how the data will be displayed## Job Volume Summary
  ### Report Short Description
   `Represents "how much" data has been backed up each day. You can use the information to ascertain problematic time periods, consumption trends, and scheduling peaks.` 
 ### Information 
@@ -97,8 +93,7 @@
     Max Execution Time(recent) : 00 Hours: 05 Minutes: 50 Seconds
 ### Report Long Description
 	- The report shows the number of files and amount of data (in KB) backed up for a specified time period.
-	- The report shows the number of files and amount of data (in KB) backed up for a specified time period
-## Job Type Count
+	- The report shows the number of files and amount of data (in KB) backed up for a specified time period## Job Type Count
  ### Report Short Description
   `This donut chart represents the count of each job type, with drilldowns to the Job Summary.` 
 ### Information 
@@ -107,8 +102,7 @@
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 05 Seconds
 ### Report Long Description
 	- Use this chart for a high-level view of backup jobs, with access to the relevant details.
-	- Use this chart for a high-level view of backup jobs, with access to the relevant details
-## Job Error Code
+	- Use this chart for a high-level view of backup jobs, with access to the relevant details## Job Error Code
  ### Report Short Description
   `Use this chart for a high-level view of backup errors by error code. Click a sector to view the Job Summary report for a specific error code.` 
 ### Information 
@@ -117,8 +111,7 @@
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
 	- Each donut sector represents an error code with the number of error occurrences shown in a tooltip in the following format.
-	- Each donut sector represents an error code with the number of error occurrences shown in a tooltip in the following format
-## Job Duration
+	- Each donut sector represents an error code with the number of error occurrences shown in a tooltip in the following format## Job Duration
  ### Report Short Description
   `Represent job duration for backup and restore jobs.` 
 ### Information 
@@ -127,8 +120,7 @@
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 03 Seconds
 ### Report Long Description
 	- The report combines into one view, information about both backup and restore duration.
-	- The report combines into one view, information about both backup and restore duration
-## Error Log Summary by Server
+	- The report combines into one view, information about both backup and restore duration## Error Log Summary by Server
  ### Report Short Description
   `View a tabular report that lists backup failure details gleaned from backup error logs.` 
 ### Information 
@@ -136,8 +128,7 @@
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 07 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 22 Seconds
 ### Report Long Description
-	- The report combines into one view, information about both backup and restore duration
-## Error Log Summary
+	- The report combines into one view, information about both backup and restore duration## Error Log Summary
  ### Report Short Description
   `View a tabular report that lists backup failure details gleaned from backup error logs.` 
 ### Information 
@@ -145,8 +136,7 @@
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
 ### Report Long Description
-	- The report combines into one view, information about both backup and restore duration
-## Error Log Summary by Policy
+	- The report combines into one view, information about both backup and restore duration## Error Log Summary by Policy
  ### Report Short Description
   `View a tabular report that lists backup failure details gleaned from backup error logs.` 
 ### Information 
@@ -154,8 +144,7 @@
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
-	- The report combines into one view, information about both backup and restore duration
-## Consecutive Errors
+	- The report combines into one view, information about both backup and restore duration## Consecutive Errors
  ### Report Short Description
   `Lists consecutive backup errors for consecutive days.` 
 ### Information 
@@ -168,8 +157,7 @@
 	- Using this report you can identify not only consecutive errors, but also the number of consecutive days that the errors persisted.
 	- The default order for this listing is descending order, with the clients having the most consecutive errors listed first.
 	- Correlate the number of consecutive errors with the number of consecutive days so that you can disregard errors that appear to be intermittent.
-	- Correlate the number of consecutive errors with the number of consecutive days so that you can disregard errors that appear to be intermittent
-## Largest Backup Volume
+	- Correlate the number of consecutive errors with the number of consecutive days so that you can disregard errors that appear to be intermittent## Largest Backup Volume
  ### Report Short Description
   `Displays a pie chart representing a snapshot of the largest server backup consumers.` 
 ### Information 
@@ -180,8 +168,7 @@
 	- Use this report to identify consumers of your most utilized backup volume.
 	- A pie chart graphically represents the usage that also is listed in the legend.
 	- This report will help you identify greedy hosts or applications.
-	- This report will help you identify greedy hosts or applications
-## Monthly Backup Summary
+	- This report will help you identify greedy hosts or applications## Monthly Backup Summary
  ### Report Short Description
   `Displays the monthly summary for backup.` 
 ### Information 
@@ -190,8 +177,7 @@
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 58 Seconds
 ### Report Long Description
 	- When selecting the scope for this report, choose Include Primary Servers.
-	- When selecting the scope for this report, choose Include Primary Servers
-## Job Summary by Server
+	- When selecting the scope for this report, choose Include Primary Servers## Job Summary by Server
  ### Report Short Description
   `Provides the number of backup jobs and their status: running, queued, warnings, errors.` 
 ### Information 
@@ -199,9 +185,8 @@
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 08 Seconds
 ### Report Long Description
-	- This report displays the number of jobs and their status, for jobs started during the time period that you specified for the report.  Only Veritas NetBackup, EMC NetWorker and CommVault Simpana jobs are listed in this report.
-	- This report displays the number of jobs and their status, for jobs started during the time period that you specified for the report.  Only Veritas NetBackup, EMC NetWorker and CommVault Simpana jobs are listed in this report
-## Running and Queued Job Summary
+	- This report displays the number of jobs and their status, for jobs started during the time period that you specified for the report. Only Veritas NetBackup, EMC NetWorker and CommVault Simpana jobs are listed in this report.
+	- This report displays the number of jobs and their status, for jobs started during the time period that you specified for the report. Only Veritas NetBackup, EMC NetWorker and CommVault Simpana jobs are listed in this report## Running and Queued Job Summary
  ### Report Short Description
   `Displays any job that was running or queued at the time the management servers were polled.` 
 ### Information 
@@ -212,8 +197,7 @@
 	- Only Veritas NetBackup and EMC NetWorker jobs will be listed in this report.
 	- For NetWorker, this report is titled, Running Save Sets Summary.
 	- Jobs that require attention (long-running, stalled, or slow jobs) will be highlighted in red and moved to the top of the running and queued jobs list so that they are quickly noted by administrators and handled appropriately.
-	- Jobs that require attention (long-running, stalled, or slow jobs) will be highlighted in red and moved to the top of the running and queued jobs list so that they are quickly noted by administrators and handled appropriately
-## HP DP Session Summary
+	- Jobs that require attention (long-running, stalled, or slow jobs) will be highlighted in red and moved to the top of the running and queued jobs list so that they are quickly noted by administrators and handled appropriately## HP DP Session Summary
  ### Report Short Description
   `Displays an HP Data Protector backup/restore session summary.` 
 ### Information 
@@ -222,8 +206,7 @@
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 24 Seconds
 ### Report Long Description
 	- This report lists HP Data Protector sessions, with drilldown access to session details.
-	- This report lists HP Data Protector sessions, with drilldown access to session details
-## Data Domain Backup Summary
+	- This report lists HP Data Protector sessions, with drilldown access to session details## Data Domain Backup Summary
  ### Report Short Description
   `Lists the NetBackup systems that have client backup data.` 
 ### Information 
@@ -232,8 +215,7 @@
     Max Execution Time(recent) : 00 Hours: 02 Minutes: 19 Seconds
 ### Report Long Description
 	- The Data Domain system acts as an external disk pool.
-	- The Data Domain system acts as an external disk pool
-## NetBackup SLP Status
+	- The Data Domain system acts as an external disk pool## NetBackup SLP Status
  ### Report Short Description
   `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs, which can be used as an
 overview of the health of the SLPs for each NetBackup primary server.` 
@@ -244,8 +226,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
 	- These statistics enable you to identify issues associated with the processing of SLPs.
-	- These statistics enable you to identify issues associated with the processing of SLPs
-## Data Domain File Compression Summary
+	- These statistics enable you to identify issues associated with the processing of SLPs## Data Domain File Compression Summary
  ### Report Short Description
   `View Data Domain file pre and post compression values summarized for a client, with aggregated rates.` 
 ### Information 
@@ -259,8 +240,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- These clients can consume much of the expensive Data Domain storage.
 	- Data Domain collection now can identify the largest offenders, which can then be moved to less expensive storage to avoid paying premium rates for de-duplication.
 	- Configure EMC Data Domain collection to capture image-level compression rates.
-	- Configure EMC Data Domain collection to capture image-level compression rates
-## Data Domain File Compression Detail
+	- Configure EMC Data Domain collection to capture image-level compression rates## Data Domain File Compression Detail
  ### Report Short Description
   `View Data Domain file values both pre and post compression.` 
 ### Information 
@@ -274,8 +254,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- These clients can consume much of the expensive Data Domain storage.
 	- Data Domain collection now can identify the largest offenders, which can then be moved to less expensive storage to avoid paying premium rates for de-duplication.
 	- Configure EMC Data Domain collection to capture image-level compression rates.
-	- Configure EMC Data Domain collection to capture image-level compression rates
-## AWS EC2 Snapshot
+	- Configure EMC Data Domain collection to capture image-level compression rates## AWS EC2 Snapshot
  ### Report Short Description
   `Displays Amazon Web Services (AWS) EC2 instances with the status of snapshot backups` 
 ### Information 
@@ -284,8 +263,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
 	- Displays Amazon Web Services (AWS) EC2 instances with color coded statuses, dates and sizes of snapshot backups allowing for a quick assessment.
-	- Displays Amazon Web Services (AWS) EC2 instances with color coded statuses, dates and sizes of snapshot backups allowing for a quick assessment
-## AWS EC2 Snapshot Detail
+	- Displays Amazon Web Services (AWS) EC2 instances with color coded statuses, dates and sizes of snapshot backups allowing for a quick assessment## AWS EC2 Snapshot Detail
  ### Report Short Description
   `Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.` 
 ### Information 
@@ -294,8 +272,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
 	- Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.
-	- Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes
-## Job Summary By Source
+	- Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes## Job Summary By Source
  ### Report Short Description
   `This report shows the job summary with the rate of success by source.` 
 ### Information 
@@ -305,8 +282,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- Shows totals for successful, partially successful, and failed jobs for each source.
 	- Drilldown on sources, hosts and objects to show details.
-	- Drilldown on sources, hosts and objects to show details
-## Job Duration By Source
+	- Drilldown on sources, hosts and objects to show details## Job Duration By Source
  ### Report Short Description
   `Use this report to view the total duration of backup and restore jobs sorted by Source for a specific period of time.` 
 ### Information 
@@ -314,8 +290,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
-	- Drilldown on sources, hosts and objects to show details
-## Primary Server Job Throughput
+	- Drilldown on sources, hosts and objects to show details## Primary Server Job Throughput
  ### Report Short Description
   `Use this report as a tool to compare performance of various primary servers.` 
 ### Information 
@@ -326,8 +301,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- Use this report as a tool to compare performance of various primary servers.
 	- This report displays throughput and job success information for each primary server.
 	- It shows job count and job success rate, and enables you to compare throughputs of different servers to identify any poorly performing servers.
-	- It shows job count and job success rate, and enables you to compare throughputs of different servers to identify any poorly performing servers
-## NetBackup Media Server Job Throughput
+	- It shows job count and job success rate, and enables you to compare throughputs of different servers to identify any poorly performing servers## NetBackup Media Server Job Throughput
  ### Report Short Description
   `Provides details of data that is backed up by NetBackup media servers and shows server throughput.` 
 ### Information 
@@ -337,8 +311,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- Provides details of data that is backed up by NetBackup media servers and shows server throughput.
 	- The report is a useful tool to compare performance of the media servers that are present in your Veritas NetBackup environment.
-	- The report is a useful tool to compare performance of the media servers that are present in your Veritas NetBackup environment
-## Source Backup Count Summary
+	- The report is a useful tool to compare performance of the media servers that are present in your Veritas NetBackup environment## Source Backup Count Summary
  ### Report Short Description
   `This report provides a count of the backup sources (clients/objects) across products.` 
 ### Information 
@@ -347,8 +320,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 05 Seconds
 ### Report Long Description
 	- This report provides a counts of backup source (client/object) counts across products.
-	- This report provides a counts of backup source (client/object) counts across products
-## NetBackup SLP Status by SLP
+	- This report provides a counts of backup source (client/object) counts across products## NetBackup SLP Status by SLP
  ### Report Short Description
   `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by SLP, which can be used as an overview of the health of the SLPs for each NetBackup primary server.` 
 ### Information 
@@ -358,8 +330,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
 	- These statistics enable you to identify issues associated with the processing of SLPs.
-	- These statistics enable you to identify issues associated with the processing of SLPs
-## NBU AIR Replication Import Jobs
+	- These statistics enable you to identify issues associated with the processing of SLPs## NBU AIR Replication Import Jobs
  ### Report Short Description
   `Provides details about NBU AIR Replication Import Jobs` 
 ### Information 
@@ -367,8 +338,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
-	- These statistics enable you to identify issues associated with the processing of SLPs
-## NetBackup Deduplication to MSDP Savings - By Clients
+	- These statistics enable you to identify issues associated with the processing of SLPs## NetBackup Deduplication to MSDP Savings - By Clients
  ### Report Short Description
   `Provides details about NetBackup Deduplication to MSDP Savings - By Clients` 
 ### Information 
@@ -376,8 +346,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 21 Seconds
     Max Execution Time(recent) : 00 Hours: 02 Minutes: 35 Seconds
 ### Report Long Description
-	- These statistics enable you to identify issues associated with the processing of SLPs
-## NetBackup Deduplication to MSDP Savings - By Primary Servers
+	- These statistics enable you to identify issues associated with the processing of SLPs## NetBackup Deduplication to MSDP Savings - By Primary Servers
  ### Report Short Description
   `Provides details about NetBackup Deduplication to MSDP Savings - By Primary Servers` 
 ### Information 
@@ -386,8 +355,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : 00 Hours: 02 Minutes: 03 Seconds
 ### Report Long Description
 	- This report lists Primary Server, Primary IP, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Primary Servers.
-	- This report lists Primary Server, Primary IP, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Primary Servers
-## NetBackup Deduplication to MSDP Savings - By Policy Type
+	- This report lists Primary Server, Primary IP, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Primary Servers## NetBackup Deduplication to MSDP Savings - By Policy Type
  ### Report Short Description
   `Provides details about NetBackup Deduplication to MSDP Savings - By Policy Type` 
 ### Information 
@@ -396,8 +364,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : 00 Hours: 01 Minutes: 49 Seconds
 ### Report Long Description
 	- This report lists Policy Type, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Policy Type.
-	- This report lists Policy Type, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Policy Type
-## NetBackup Deduplication to MSDP Savings Trend Over Time
+	- This report lists Policy Type, Total Deduplication Job Count, Total Data Scanned Before Deduplication, Total Data Protected after Deduplication and provides the Total Deduplication Savings Percentage by Policy Type## NetBackup Deduplication to MSDP Savings Trend Over Time
  ### Report Short Description
   `Provides NetBackup Deduplication to MSDP Trend Over Time` 
 ### Information 
@@ -407,8 +374,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- This Bar Chart report lists Deduplication Trend Over Time.
 	- This report is equivalent to the following NetBackup OpsCenter report(s): Pre vs.
-	- This report is equivalent to the following NetBackup OpsCenter report(s): Pre vs
-## Job Throughput by Client
+	- This report is equivalent to the following NetBackup OpsCenter report(s): Pre vs## Job Throughput by Client
  ### Report Short Description
   `Job Throughput ` 
 ### Information 
@@ -419,8 +385,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- This report shows a line chart for job throughput by client.
 	-  It can be used to determine if there are performance issues on this host or appliance.
 	- It will show the top 20 clients.
-	- It will show the top 20 clients
-## Anomalies Summary
+	- It will show the top 20 clients## Anomalies Summary
  ### Report Short Description
   `Provides details of the jobs with anomalies.` 
 ### Information 
@@ -428,8 +393,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 28 Seconds
 ### Report Long Description
-	- It will show the top 20 clients
-## NetBackup SLP Status by Client
+	- It will show the top 20 clients## NetBackup SLP Status by Client
  ### Report Short Description
   `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by Client, which can be used as an overview of the health of the SLPs for each NetBackup primary server.` 
 ### Information 
@@ -438,8 +402,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 02 Seconds
 ### Report Long Description
 	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
-	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing
-## NetBackup SLP Status by Image Copy
+	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing## NetBackup SLP Status by Image Copy
  ### Report Short Description
   `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by Image Copy, which can be used as an overview of the health of the SLPs for each NetBackup primary server.` 
 ### Information 
@@ -448,8 +411,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 18 Seconds
 ### Report Long Description
 	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing.
-	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing
-## Job Status Summary by Client
+	- Using this report's completion statistics, you can determine if the SLP is performing according to schedule, if additional copies have been made, and also if the backlog is increasing## Job Status Summary by Client
  ### Report Short Description
   `This report shows a status summary of backup jobs for the selected clients. The table shows totals for successful, partially successful, and failed jobs for each client that is in scope.` 
 ### Information 
@@ -461,8 +423,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- The table shows totals for successful, partially successful, and failed jobs for each client that is in scope.
 	-  When clicking on one of the totals, this will open a drill-down report to see the details of the selected jobs.
 	-  It is recommended to run this report on specific groups of clients by modifying the scope selector.
-	-  It is recommended to run this report on specific groups of clients by modifying the scope selector
-## Ransomware Risk Assessment Dashboard
+	-  It is recommended to run this report on specific groups of clients by modifying the scope selector## Ransomware Risk Assessment Dashboard
  ### Report Short Description
   `Dashboard to highlight the risk of under-protected assets which if exposed to a Ransomware threat may become unavailable and may even incur financial loss to the enterprise. It also highlights any presence of files with well-known ransomware extensions across your environment` 
 ### Information 
@@ -498,8 +459,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- This report provides the summary view of the number of the such file extensions found.
 	- You can click on the export icon to download a CSV file which would contain a list of all file paths along with their server locations to help drill down into the source of the infection.
 	- This report is available with the "Complete" license pack for NetBackup IT Analytics software.
-	- This report is available with the "Complete" license pack for NetBackup IT Analytics software
-## Operations Dashboard
+	- This report is available with the "Complete" license pack for NetBackup IT Analytics software## Operations Dashboard
  ### Report Short Description
   `Displays a dashboard view of Job Status Summary, Current Media Summary, Largest Backup Volume, and Storage Unit Summary.` 
 ### Information 
@@ -509,8 +469,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- The reports displayed in this dashboard are dependent on the type of backup system selected in the report scope.
 	- For example, the Storage Unit Summary is relevant only for NetBackup servers.
-	- For example, the Storage Unit Summary is relevant only for NetBackup servers
-## Alerts Dashboard
+	- For example, the Storage Unit Summary is relevant only for NetBackup servers## Alerts Dashboard
  ### Report Short Description
   `NetBackup IT Analytics can continuously monitor for issues in your environment. The Alerts Dashboard provides an overview of detected issues that require attention.` 
 ### Information 
@@ -522,8 +481,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- Once Alert rules have been configured, NetBackup IT Analytics will continuously monitor your environment and generate an alert when a monitored condition is triggered.
 	- One of the following actions should typically be taken on each alert:  The condition that triggered the alert is rectified (e.g.
 	- datastore that was filling up was expanded) If the alert is a false positive, the alert rule is refined to prevent future alerts If the alert is valid, but can be ignored, the alert can be suppressed.
-	- datastore that was filling up was expanded) If the alert is a false positive, the alert rule is refined to prevent future alerts If the alert is valid, but can be ignored, the alert can be suppressed
-## Storage Optimization Dashboard
+	- datastore that was filling up was expanded) If the alert is a false positive, the alert rule is refined to prevent future alerts If the alert is valid, but can be ignored, the alert can be suppressed## Storage Optimization Dashboard
  ### Report Short Description
   `View charts of storage showing opportunities to optimize storage reclamation, by tier, infrastructure category, in summary and as a trend` 
 ### Information 
@@ -535,8 +493,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- This dashboard presents point-in-time charts that summarize storage usage and show different detailed views.
 	- A trend report shows usage over time by storage category.
 	- Chart sectors can be clicked to drill down into additional details for particular infrastructure categories such as Undiscovered LUNs, Powered-off VMs, Over-provisioned Hosts, etc.
-	- Chart sectors can be clicked to drill down into additional details for particular infrastructure categories such as Undiscovered LUNs, Powered-off VMs, Over-provisioned Hosts, etc
-## Backup Server Performance Dashboard
+	- Chart sectors can be clicked to drill down into additional details for particular infrastructure categories such as Undiscovered LUNs, Powered-off VMs, Over-provisioned Hosts, etc## Backup Server Performance Dashboard
  ### Report Short Description
   `Backup Server Performance Dashboard` 
 ### Information 
@@ -544,8 +501,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
-	- Chart sectors can be clicked to drill down into additional details for particular infrastructure categories such as Undiscovered LUNs, Powered-off VMs, Over-provisioned Hosts, etc
-## NetBackup Deduplication to MSDP Savings Dashboard 
+	- Chart sectors can be clicked to drill down into additional details for particular infrastructure categories such as Undiscovered LUNs, Powered-off VMs, Over-provisioned Hosts, etc## NetBackup Deduplication to MSDP Savings Dashboard 
  ### Report Short Description
   `The Dashboard provides details about Deduplication to MSDP Savings` 
 ### Information 
@@ -554,8 +510,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
 	- The Dashboard provides Deduplication to MSDP Savings by Primary Server, by Policy Type, by Clients.
-	- The Dashboard provides Deduplication to MSDP Savings by Primary Server, by Policy Type, by Clients
-## Azure Cloud Cost Spend Dashboard
+	- The Dashboard provides Deduplication to MSDP Savings by Primary Server, by Policy Type, by Clients## Azure Cloud Cost Spend Dashboard
  ### Report Short Description
   `Dashboard to highlight the cost spent on Azure subscriptions` 
 ### Information 
@@ -564,8 +519,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
 	- This dashboard contains multiple reports to show the cost spent on Azure cloud subscriptions. This dashboard also shows different cost visualizations based on Subscription, Region, Service, and Tag in a stacked bar chart and tile format. Cost spend last month - This shows the overall spend last month. Cost spend so far this month - This shows the cost spend until the current date. Projected cost spend this month - This shows the projected cost for the month based on calculation as (Cost/no of days as of current date) * (Total no of days in the month)). All the above 3 reports are for all the subscriptions for which billing data is collected. Cost history by Subscription ( Top N ) - This shows the week-wise cost history for the top 10 high-spending subscriptions for last 90 days. Cost history by Region ( Top N ) - This shows the week-wise cost history for the top 10 high-spending regions for last 90 days. Cost history by Service ( Top N ) - This shows the week-wise cost history for top 10 high-spending services for last 90 days. Cost history by Tag - This shows week-wise cost history for values under the tags for last 90 days.
-	- This dashboard contains multiple reports to show the cost spent on Azure cloud subscriptions. This dashboard also shows different cost visualizations based on Subscription, Region, Service, and Tag in a stacked bar chart and tile format. Cost spend last month - This shows the overall spend last month. Cost spend so far this month - This shows the cost spend until the current date. Projected cost spend this month - This shows the projected cost for the month based on calculation as (Cost/no of days as of current date) * (Total no of days in the month)). All the above 3 reports are for all the subscriptions for which billing data is collected. Cost history by Subscription ( Top N ) - This shows the week-wise cost history for the top 10 high-spending subscriptions for last 90 days. Cost history by Region ( Top N ) - This shows the week-wise cost history for the top 10 high-spending regions for last 90 days. Cost history by Service ( Top N ) - This shows the week-wise cost history for top 10 high-spending services for last 90 days. Cost history by Tag - This shows week-wise cost history for values under the tags for last 90 days
-## Command Center Dashboard
+	- This dashboard contains multiple reports to show the cost spent on Azure cloud subscriptions. This dashboard also shows different cost visualizations based on Subscription, Region, Service, and Tag in a stacked bar chart and tile format. Cost spend last month - This shows the overall spend last month. Cost spend so far this month - This shows the cost spend until the current date. Projected cost spend this month - This shows the projected cost for the month based on calculation as (Cost/no of days as of current date) * (Total no of days in the month)). All the above 3 reports are for all the subscriptions for which billing data is collected. Cost history by Subscription ( Top N ) - This shows the week-wise cost history for the top 10 high-spending subscriptions for last 90 days. Cost history by Region ( Top N ) - This shows the week-wise cost history for the top 10 high-spending regions for last 90 days. Cost history by Service ( Top N ) - This shows the week-wise cost history for top 10 high-spending services for last 90 days. Cost history by Tag - This shows week-wise cost history for values under the tags for last 90 days## Command Center Dashboard
  ### Report Short Description
   `Use the multi-portlet Command Center Dashboard to get a real-time view of your backup environment.` 
 ### Information 
@@ -574,8 +528,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 58 Seconds
 ### Report Long Description
 	- This dashboard view includes several reports: Real Time Job Summary, Real Time Library and Drive Status, Real Time Storage Unit Utilization, and Running and Queued Jobs Summary.
-	- This dashboard view includes several reports: Real Time Job Summary, Real Time Library and Drive Status, Real Time Storage Unit Utilization, and Running and Queued Jobs Summary
-## Data Protection Dashboard
+	- This dashboard view includes several reports: Real Time Job Summary, Real Time Library and Drive Status, Real Time Storage Unit Utilization, and Running and Queued Jobs Summary## Data Protection Dashboard
  ### Report Short Description
   `Displays a dashboard view of several reports: Message of the Day, Job Status Summary, Mission Control report, and Monthly Backup Summary.` 
 ### Information 
@@ -583,8 +536,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 39 Seconds
     Max Execution Time(recent) : 00 Hours: 01 Minutes: 51 Seconds
 ### Report Long Description
-	- This dashboard view includes several reports: Real Time Job Summary, Real Time Library and Drive Status, Real Time Storage Unit Utilization, and Running and Queued Jobs Summary
-## Mission Control - Backup
+	- This dashboard view includes several reports: Real Time Job Summary, Real Time Library and Drive Status, Real Time Storage Unit Utilization, and Running and Queued Jobs Summary## Mission Control - Backup
  ### Report Short Description
   `Provides a snapshot of backup/restore event status, with easily identifiable indicators of success/failure and drilldowns to details.` 
 ### Information 
@@ -594,8 +546,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- Using this report, you can easily identify hosts that have not had backups or failed backups.
 	- Drilldown to ascertain the root cause of unsuccessful backups.
-	- Drilldown to ascertain the root cause of unsuccessful backups
-## IBM Spectrum Protect (TSM) Storage Pools Dashboard
+	- Drilldown to ascertain the root cause of unsuccessful backups## IBM Spectrum Protect (TSM) Storage Pools Dashboard
  ### Report Short Description
   `View a dashboard report that displays a real-time view into capacity and process status information for the selected list of IBM Spectrum Protect (TSM) Storage Pools.` 
 ### Information 
@@ -605,8 +556,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Long Description
 	- In a single pane, you quickly can analyze capacity and process status information for each of the Storage Pools.
 	- The Storage Pool Capacity pie chart displays the percentage and GBytes used and available for the Storage Pool.
-	- The Storage Pool Capacity pie chart displays the percentage and GBytes used and available for the Storage Pool
-## Job Histogram
+	- The Storage Pool Capacity pie chart displays the percentage and GBytes used and available for the Storage Pool## Job Histogram
  ### Report Short Description
   `Displays either Job Throughput or Job Activity based on your preference.` 
 ### Information 
@@ -620,8 +570,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- The Job Activity Histogram lists clients that had backup jobs within the previous 24 hours.
 	- The colored cells enable you to quickly determine the activity per client.
 	- The report shows the number of completed jobs that started within the selected time period.
-	- The report shows the number of completed jobs that started within the selected time period
-## NetBackup Audit Report
+	- The report shows the number of completed jobs that started within the selected time period## NetBackup Audit Report
  ### Report Short Description
   `View NetBackup object and configuration changes` 
 ### Information 
@@ -632,8 +581,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- When auditing is configured for a NetBackup environment, the following user-initiated actions from NetBackup are recorded and available to view in an audit report: Actions that change the NetBackup configuration.
 	- Examples are policy creation, deletion, and modification, and changing the audit settings.
 	- Actions that change NetBackup run-time objects.
-	- Actions that change NetBackup run-time objects
-## NetBackup Event Notification Summary - CRITICAL
+	- Actions that change NetBackup run-time objects## NetBackup Event Notification Summary - CRITICAL
  ### Report Short Description
   `A report which displays the summary of server name, severity , priority and count of critical event notifications.` 
 ### Information 
@@ -644,8 +592,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- The report displays summarized view of server name, notification severity an d priority and its corresponding count of the critical events notification.
 	- Click Server Name hyperlink vlue to view Host Details report for corresponding Server Name.
 	- Click Number of Notifications column hyperlink value to view its details on basis of server name, corresponding notification priority and severity.
-	- Click Number of Notifications column hyperlink value to view its details on basis of server name, corresponding notification priority and severity
-## Avamar Grid Capacity Dashboard
+	- Click Number of Notifications column hyperlink value to view its details on basis of server name, corresponding notification priority and severity## Avamar Grid Capacity Dashboard
  ### Report Short Description
   `Displays a unified historical view of the storage and de-duplication trends of the Avamar grids.` 
 ### Information 
@@ -654,8 +601,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 13 Seconds
 ### Report Long Description
 	- The graph represents the total usage and capacity for all disks on the host for the point in time.
-	- The graph represents the total usage and capacity for all disks on the host for the point in time
-## Data Domain Replication History
+	- The graph represents the total usage and capacity for all disks on the host for the point in time## Data Domain Replication History
  ### Report Short Description
   `Use this report to determine which destinations are being replicated.` 
 ### Information 
@@ -667,8 +613,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 	- The remaining pre-compression (pre-comp) value, relevant for directory replication only, represents the sum of the sizes of the files yet to be replicated.
 	- Note that this value includes the entire logical size of the current file that is being replicated.
 	- For very large files, this may take some time and the remaining pre-comp value will only update once the current file replication completes.
-	- For very large files, this may take some time and the remaining pre-comp value will only update once the current file replication completes
-## Data Domain Snapshot History
+	- For very large files, this may take some time and the remaining pre-comp value will only update once the current file replication completes## Data Domain Snapshot History
  ### Report Short Description
   `Lists Data Domain Snapshots with relevant retention details.` 
 ### Information 
