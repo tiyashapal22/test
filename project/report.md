@@ -60,7 +60,7 @@
 ### Report Short Description
 `View a client and job overview by backup window.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 09 Seconds
     Max Execution Time(recent) : 00 Hours: 03 Minutes: 18 Seconds
 ### Report Long Description
@@ -71,7 +71,7 @@
 ### Report Short Description
 `Aggregates jobs that succeed, fail, or produce warning messages for each time period.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 14 Seconds
     Max Execution Time(recent) : 00 Hours: 05 Minutes: 30 Seconds
 ### Report Long Description
@@ -82,7 +82,7 @@
 ### Report Short Description
 `View details related to the data represented in the bars shown in the Job Status Summary chart.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 38 Seconds
     Max Execution Time(recent) : 01 Hours: 00 Minutes: 07 Seconds
 ### Report Long Description
@@ -92,7 +92,7 @@
 ### Report Short Description
 `Represents "how much" data has been backed up each day. You can use the information to ascertain problematic time periods, consumption trends, and scheduling peaks.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 13 Seconds
     Max Execution Time(recent) : 00 Hours: 05 Minutes: 50 Seconds
 ### Report Long Description
@@ -102,7 +102,7 @@
 ### Report Short Description
 `This donut chart represents the count of each job type, with drilldowns to the Job Summary.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 02 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 05 Seconds
 ### Report Long Description
@@ -112,7 +112,7 @@
 ### Report Short Description
 `Use this chart for a high-level view of backup errors by error code. Click a sector to view the Job Summary report for a specific error code.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -122,7 +122,7 @@
 ### Report Short Description
 `Represent job duration for backup and restore jobs.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 02 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 03 Seconds
 ### Report Long Description
@@ -132,7 +132,7 @@
 ### Report Short Description
 `View a tabular report that lists backup failure details gleaned from backup error logs.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 07 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 22 Seconds
 ### Report Long Description
@@ -141,7 +141,7 @@
 ### Report Short Description
 `View a tabular report that lists backup failure details gleaned from backup error logs.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
 ### Report Long Description
@@ -150,7 +150,7 @@
 ### Report Short Description
 `View a tabular report that lists backup failure details gleaned from backup error logs.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -159,7 +159,7 @@
 ### Report Short Description
 `Lists consecutive backup errors for consecutive days.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 49 Seconds
     Max Execution Time(recent) : 01 Hours: 00 Minutes: 40 Seconds
 ### Report Long Description
@@ -173,7 +173,7 @@
 ### Report Short Description
 `Displays a pie chart representing a snapshot of the largest server backup consumers.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 30 Seconds
     Max Execution Time(recent) : 00 Hours: 04 Minutes: 37 Seconds
 ### Report Long Description
@@ -185,7 +185,7 @@
 ### Report Short Description
 `Displays the monthly summary for backup.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 05 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 58 Seconds
 ### Report Long Description
@@ -195,7 +195,7 @@
 ### Report Short Description
 `Provides the number of backup jobs and their status: running, queued, warnings, errors.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 08 Seconds
 ### Report Long Description
@@ -205,7 +205,7 @@
 ### Report Short Description
 `Displays any job that was running or queued at the time the management servers were polled.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 01 Minutes: 03 Seconds
     Max Execution Time(recent) : 00 Hours: 03 Minutes: 24 Seconds
 ### Report Long Description
@@ -217,7 +217,7 @@
 ### Report Short Description
 `Displays an HP Data Protector backup/restore session summary.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 06 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 24 Seconds
 ### Report Long Description
@@ -227,7 +227,7 @@
 ### Report Short Description
 `Lists the NetBackup systems that have client backup data.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 29 Seconds
     Max Execution Time(recent) : 00 Hours: 02 Minutes: 19 Seconds
 ### Report Long Description
@@ -238,7 +238,7 @@
 `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs, which can be used as an
 overview of the health of the SLPs for each NetBackup primary server.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 22 Seconds
     Max Execution Time(recent) : 00 Hours: 03 Minutes: 31 Seconds
 ### Report Long Description
@@ -249,7 +249,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `View Data Domain file pre and post compression values summarized for a client, with aggregated rates.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 21 Seconds
     Max Execution Time(recent) : 00 Hours: 05 Minutes: 23 Seconds
 ### Report Long Description
@@ -264,7 +264,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `View Data Domain file values both pre and post compression.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 03 Minutes: 06 Seconds
     Max Execution Time(recent) : 00 Hours: 40 Minutes: 29 Seconds
 ### Report Long Description
@@ -279,7 +279,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Displays Amazon Web Services (AWS) EC2 instances with the status of snapshot backups`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -289,7 +289,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Displays Amazon Web Services (AWS) EC2 instance snapshot backup details including volume info, snapshot dates and sizes.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -299,7 +299,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `This report shows the job summary with the rate of success by source.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -310,7 +310,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Use this report to view the total duration of backup and restore jobs sorted by Source for a specific period of time.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -319,7 +319,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Use this report as a tool to compare performance of various primary servers.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -331,7 +331,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides details of data that is backed up by NetBackup media servers and shows server throughput.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 06 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 06 Seconds
 ### Report Long Description
@@ -342,7 +342,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `This report provides a count of the backup sources (clients/objects) across products.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 05 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 05 Seconds
 ### Report Long Description
@@ -352,7 +352,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by SLP, which can be used as an overview of the health of the SLPs for each NetBackup primary server.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 03 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 03 Seconds
 ### Report Long Description
@@ -363,7 +363,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides details about NBU AIR Replication Import Jobs`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -372,7 +372,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides details about NetBackup Deduplication to MSDP Savings - By Clients`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 21 Seconds
     Max Execution Time(recent) : 00 Hours: 02 Minutes: 35 Seconds
 ### Report Long Description
@@ -381,7 +381,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides details about NetBackup Deduplication to MSDP Savings - By Primary Servers`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 21 Seconds
     Max Execution Time(recent) : 00 Hours: 02 Minutes: 03 Seconds
 ### Report Long Description
@@ -391,7 +391,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides details about NetBackup Deduplication to MSDP Savings - By Policy Type`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 18 Seconds
     Max Execution Time(recent) : 00 Hours: 01 Minutes: 49 Seconds
 ### Report Long Description
@@ -401,7 +401,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides NetBackup Deduplication to MSDP Trend Over Time`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 18 Seconds
     Max Execution Time(recent) : 00 Hours: 01 Minutes: 39 Seconds
 ### Report Long Description
@@ -412,7 +412,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Job Throughput `
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 01 Minutes: 01 Seconds
     Max Execution Time(recent) : 00 Hours: 02 Minutes: 43 Seconds
 ### Report Long Description
@@ -424,7 +424,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides details of the jobs with anomalies.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 04 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 28 Seconds
 ### Report Long Description
@@ -433,7 +433,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by Client, which can be used as an overview of the health of the SLPs for each NetBackup primary server.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 02 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 02 Seconds
 ### Report Long Description
@@ -443,7 +443,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Lists the Storage Lifecycle Policy (SLP) status for NetBackup jobs by Image Copy, which can be used as an overview of the health of the SLPs for each NetBackup primary server.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 16 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 18 Seconds
 ### Report Long Description
@@ -453,7 +453,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `This report shows a status summary of backup jobs for the selected clients. The table shows totals for successful, partially successful, and failed jobs for each client that is in scope.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 01 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 01 Seconds
 ### Report Long Description
@@ -466,7 +466,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Dashboard to highlight the risk of under-protected assets which if exposed to a Ransomware threat may become unavailable and may even incur financial loss to the enterprise. It also highlights any presence of files with well-known ransomware extensions across your environment`
 ### Information 
-    Last Updated  :     No Data Available
+    Last Updated              : No Data Available
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -503,7 +503,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Displays a dashboard view of Job Status Summary, Current Media Summary, Largest Backup Volume, and Storage Unit Summary.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 10 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 32 Seconds
 ### Report Long Description
@@ -514,7 +514,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `NetBackup IT Analytics can continuously monitor for issues in your environment. The Alerts Dashboard provides an overview of detected issues that require attention.`
 ### Information 
-    Last Updated  :     No Data Available
+    Last Updated              : No Data Available
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -527,7 +527,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `View charts of storage showing opportunities to optimize storage reclamation, by tier, infrastructure category, in summary and as a trend`
 ### Information 
-    Last Updated  :     No Data Available
+    Last Updated              : No Data Available
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -540,7 +540,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Backup Server Performance Dashboard`
 ### Information 
-    Last Updated  :     No Data Available
+    Last Updated              : No Data Available
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -549,7 +549,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `The Dashboard provides details about Deduplication to MSDP Savings`
 ### Information 
-    Last Updated  :     No Data Available
+    Last Updated              : No Data Available
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -559,7 +559,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Dashboard to highlight the cost spent on Azure subscriptions`
 ### Information 
-    Last Updated  :     No Data Available
+    Last Updated              : No Data Available
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -569,7 +569,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Use the multi-portlet Command Center Dashboard to get a real-time view of your backup environment.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 32 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 58 Seconds
 ### Report Long Description
@@ -579,7 +579,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Displays a dashboard view of several reports: Message of the Day, Job Status Summary, Mission Control report, and Monthly Backup Summary.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 39 Seconds
     Max Execution Time(recent) : 00 Hours: 01 Minutes: 51 Seconds
 ### Report Long Description
@@ -588,7 +588,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Provides a snapshot of backup/restore event status, with easily identifiable indicators of success/failure and drilldowns to details.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 01 Minutes: 44 Seconds
     Max Execution Time(recent) : 00 Hours: 15 Minutes: 19 Seconds
 ### Report Long Description
@@ -599,7 +599,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `View a dashboard report that displays a real-time view into capacity and process status information for the selected list of IBM Spectrum Protect (TSM) Storage Pools.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 56 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 56 Seconds
 ### Report Long Description
@@ -610,7 +610,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Displays either Job Throughput or Job Activity based on your preference.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 01 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 02 Seconds
 ### Report Long Description
@@ -625,7 +625,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `View NetBackup object and configuration changes`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 01 Minutes: 35 Seconds
     Max Execution Time(recent) : 00 Hours: 01 Minutes: 51 Seconds
 ### Report Long Description
@@ -637,7 +637,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `A report which displays the summary of server name, severity , priority and count of critical event notifications.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : No Data Available
     Max Execution Time(recent) : No Data Available
 ### Report Long Description
@@ -649,7 +649,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Displays a unified historical view of the storage and de-duplication trends of the Avamar grids.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 02 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 13 Seconds
 ### Report Long Description
@@ -659,7 +659,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Use this report to determine which destinations are being replicated.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 10 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 45 Seconds
 ### Report Long Description
@@ -672,7 +672,7 @@ overview of the health of the SLPs for each NetBackup primary server.`
 ### Report Short Description
 `Lists Data Domain Snapshots with relevant retention details.`
 ### Information 
-    Last Updated  :     29 April, 2024
+    Last Updated              : 29 April, 2024
     Avg Execution Time(recent) : 00 Hours: 00 Minutes: 09 Seconds
     Max Execution Time(recent) : 00 Hours: 00 Minutes: 09 Seconds
 ### Report Long Description
