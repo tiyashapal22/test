@@ -19,7 +19,7 @@ It is an older Version.
 ### Python 3
 _python 3 is a newer version_.
 
-The latest is Python **3.12** for any information contact tiyasha.pal.22@gmail.com or tiyasha2000june@gmail.com
+The latest is Python **3.12** for any information contact tiyasha.pal.22@gmail.com tiyasha2000june@gmail.com
 
 ## Usage
 ```
