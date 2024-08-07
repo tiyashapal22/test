@@ -12,14 +12,15 @@
 ### Python 2
 There is a version of [**python 2**](https://www.python.org/).
 ## Amazon link
-to show click here: https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=708111563274&hvpos=&hvnetw=g&hvrand=2370755197057633113&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061885&hvtargid=kwd-64107830&hydadcr=14452_2391719&gad_source=1
+to show click here: https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=708111563274&hvpos=&hvnetw=g&hvrand=2370755197057633113&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061885&hvtargid=kwd-64107830&hydadcr=14452_2391719&gad_source=1 this is the link
+
 
 It is an older Version.
 
 ### Python 3
 _python 3 is a newer version_.
 
-The latest is Python **3.12** for any information contact tiyasha.pal.22@gmail.com tiyasha2000june@gmail.com
+The latest is Python **3.12** for any information contact tiyasha.pal.22@gmail.com tiyasha2000june@gmail.com click here
 
 ## Usage
 ```
