@@ -14,8 +14,9 @@ There is a version of [**python 2**](https://www.python.org/).
 ## Amazon link
 to show click here: https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=708111563274&hvpos=&hvnetw=g&hvrand=2370755197057633113&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061885&hvtargid=kwd-64107830&hydadcr=14452_2391719&gad_source=1 this is the link
 
-The price of python is 1Rs@hour
-test @avijit
+The price of python is avijit@hour
+<br>
+test @avijit1@tiyasha
 
 It is an older Version.
 
