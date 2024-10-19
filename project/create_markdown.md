@@ -11,7 +11,7 @@
 ## Plans for future
 - Love
 - Savings
-- Health Care
+- Health Care Routine
 - Family Care
 - Travelling
 - Study
